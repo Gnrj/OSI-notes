@@ -1,7 +1,4 @@
-
-
-
-
-.py
+*.py
 
 .vscode/
+.obsidian/
