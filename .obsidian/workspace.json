@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "1038335b47e243c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "297359e55c5eebf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5530d207ba06d71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/3. Управление оперативной памяти.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Управление оперативной памяти"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "522eabdb23079cb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "acfb932bafac69bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b034510ec9cd696",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "78b9ab88a9353089",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e77351fa31a167aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ff3cea8c743dc6d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3522c5519e246a0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d700369cad3d77b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3-ий семестр/Операционные системы/1. Управление процессами.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 1. Управление процессами"
+            }
+          },
+          {
+            "id": "eda1706229cc7629",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "2cb7ebb668725e72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "5bf4715f526ba494",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "185924358e5abd05",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "5530d207ba06d71f",
+  "lastOpenFiles": [
+    "OS/0.1. Развитие вычислительной техники.md",
+    "README.md",
+    "3-ий семестр/Операционные системы/0.0 Вводная информация.md",
+    "3-ий семестр/Операционные системы/0.1. Развитие вычислительной техники.md",
+    "3-ий семестр/Операционные системы/0.2. Основа архитектуры вычислительных систем.md",
+    "3-ий семестр/Философия/Лекция 2.md",
+    "3-ий семестр/Философия/Лекция 10.25.25.md",
+    "3-ий семестр/Философия/Лекция 4.md",
+    "3-ий семестр/Философия/Лекция 1.md",
+    "3-ий семестр/Философия/Семинар 10.25.25.md",
+    "3-ий семестр/Философия/Семинар 10.11.25.md",
+    "3-ий семестр/Операционные системы/3. Управление оперативной памяти.md",
+    "3-ий семестр/Операционные системы/_resources/Pasted image 20251106115614.png",
+    "3-ий семестр/Операционные системы/2. Взаимодействие процессов.md",
+    "3-ий семестр/Операционные системы/_resources/Pasted image 20251106115035.png",
+    "3-ий семестр/Операционные системы/_resources/Pasted image 20251106112300.png",
+    "3-ий семестр/Операционные системы/_resources/Pasted image 20251106111655.png",
+    "3-ий семестр/Операционные системы/_resources/Pasted image 20251106111533.png",
+    "3-ий семестр/Операционные системы/_resources/Pasted image 20251106111332.png",
+    "3-ий семестр/Операционные системы/_resources/Pasted image 20251106111219.png",
+    "3-ий семестр/Операционные системы/_resources/Pasted image 20251106111132.png",
+    "3-ий семестр/Операционные системы/_resources/Pasted image 20251106111108.png",
+    "3-ий семестр/Операционные системы/_resources/Pasted image 20251106111056.png",
+    "3-ий семестр/Операционные системы/1. Управление процессами.md",
+    "3-ий семестр/Операционные системы/Проверка.md",
+    "3-ий семестр/Операционные системы/Лекционный курс.md",
+    "3-ий семестр/Операционные системы/0.4. Основы архитектуры операционных систем.md",
+    "3-ий семестр/Операционные системы/0.3. Основы компьютерной архитектуры.md",
+    "1-й семестр/АиАя/Варианты прошлых лет/2023/AVLRB+tree.md",
+    "1-й семестр/Матан/31-й билет.md",
+    "1-й семестр/Матан/29-й билет.md",
+    "1-й семестр/Матан/28-й билет.md",
+    "1-й семестр/Матан/Первый дифференциал функции. Инвариантность его формы..md",
+    "1-й семестр/Матан/обратной функции. Формулы дифференцирования простейших элементарных функций..md",
+    "1-й семестр/Матан/Обобщенная формула конечных приращений (формула Коши). Геометрический смысл теоремы Коши..md",
+    "1-й семестр/Матан/Матан.md",
+    "Без названия.base",
+    "3-ий семестр/Облако",
+    "3-ий семестр/Операционные системы/Без названия.canvas",
+    "3-ий семестр/Философия",
+    "3-ий семестр/Операционные системы/_resources",
+    "3-ий семестр/Операционные системы",
+    "3-ий семестр",
+    "Работа/C++",
+    "Работа",
+    "2-й семестр/Дискра/_resources",
+    "2-й семестр/Дискра/Графы",
+    "2-й семестр/Русский/СМИ.canvas",
+    "2-й семестр/Русский/Схема речевой деятельности.canvas",
+    "2-й семестр/Русский/Древняя Греция.canvas",
+    "2-й семестр/Русский/Параметры русского коммуникативного поведения.canvas",
+    "Вспомогательно/Без названия.canvas"
+  ]
+}

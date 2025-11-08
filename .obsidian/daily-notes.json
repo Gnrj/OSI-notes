@@ -1,0 +1,5 @@
+{
+  "format": "DD.MM.YY",
+  "template": "_resources/templates/Ежедневный отчёт",
+  "folder": "Отчёты"
+}
