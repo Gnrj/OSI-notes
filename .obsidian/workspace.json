@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/3. Управление оперативной памяти.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Управление оперативной памяти"
+              "title": "README"
+            }
+          },
+          {
+            "id": "e5f0fe16fd0829cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/4. Файловые системы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Файловые системы"
             }
           }
         ],
@@ -187,24 +201,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9b034510ec9cd696",
+  "active": "dabf151e9bcf57a4",
   "lastOpenFiles": [
-    "OS/_resources/Pasted image 20251113115110.png",
-    "OS/_resources/Pasted image 20251113114522.png",
-    "OS/1. Управление процессами.md",
+    "OS/4. Файловые системы.md",
     "OS/3. Управление оперативной памяти.md",
-    "OS/_resources/Pasted image 20251113112953.png",
-    "OS/_resources/Pasted image 20251113105938.png",
-    "OS/_resources/Pasted image 20251113105859.png",
+    "OS/_resources/Pasted image 20251120115408.png",
+    "OS/_resources/Pasted image 20251120114814.png",
+    "OS/_resources/Pasted image 20251120114151.png",
+    "OS/_resources/Pasted image 20251120113401.png",
+    "OS/_resources/Pasted image 20251120113311.png",
+    "OS/_resources/Pasted image 20251120112850.png",
+    "OS/_resources/Pasted image 20251120111932.png",
+    "OS/_resources/Pasted image 20251120111221.png",
+    "OS/_resources/Pasted image 20251120110208.png",
+    "OS/_resources/Pasted image 20251120105630.png",
+    "OS/0.3. Основы компьютерной архитектуры.md",
+    "OS/1. Управление процессами.md",
     "README.md",
     "OS/0.2. Основа архитектуры вычислительных систем.md",
-    "OS/_resources/Pasted image 20251113101815.png",
-    "OS/_resources/Pasted image 20251113101414.png",
-    "OS/_resources/Pasted image 20251113101216.png",
-    "OS/_resources/Pasted image 20251113095342.png",
-    "OS/_resources/Pasted image 20251113094844.png",
-    "OS/_resources/Pasted image 20251113092928.png",
-    "OS/0.3. Основы компьютерной архитектуры.md",
     "OS/2. Взаимодействие процессов.md",
     "OS/0.4. Основы архитектуры операционных систем.md",
     "OS/0.1. Развитие вычислительной техники.md",
@@ -224,7 +238,6 @@
     "3-ий семестр/Операционные системы/Лекционный курс.md",
     "3-ий семестр/Операционные системы/0.4. Основы архитектуры операционных систем.md",
     "3-ий семестр/Операционные системы/0.3. Основы компьютерной архитектуры.md",
-    "1-й семестр/АиАя/Варианты прошлых лет/2023/AVLRB+tree.md",
     "Без названия.base",
     "3-ий семестр/Облако",
     "3-ий семестр/Операционные системы/Без названия.canvas",
